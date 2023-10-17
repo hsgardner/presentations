@@ -1,7 +1,7 @@
 # Presentation Slide Decks
 Select presentations from past conferences or Gardner AI Insights workshops
 
-## Past Conferences
+## Past Library Conferences
 - Cross Timbers Library Collaborative, 2018
 - Cross Timbers Library Collaborative, 2021
 - Texas Conference on Digital Libraries, 2023
